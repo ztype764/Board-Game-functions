@@ -11,4 +11,4 @@ I'll upgrade them in this sequence
 ***
 4.overhaul code add graphical interface to game.
 ***
-5.steamline code for better performance.
+5.streamline code for better performance.
