@@ -9,8 +9,6 @@ I'll upgrade them in this sequence
 ***
 3.add support for savestate and loadstate
 ***
-4.add support for quick undo
+4.overhaul code add graphical interface to game.
 ***
-5.overhaul code add graphical interface to game.
-***
-6.steamline code for better performance.
+5.steamline code for better performance.
