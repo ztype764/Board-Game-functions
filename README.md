@@ -1,4 +1,4 @@
-# Board-Game-functions-in-C
+# Board-Game-functions
 Making and upgrading various functions that are used for making a board game in C
 
 I'll upgrade them in this sequence
