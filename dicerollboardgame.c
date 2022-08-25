@@ -1,3 +1,4 @@
+//code now useless, uploaded better version in java
 #include<stdio.h>
 #include<conio.h>
 int roll()
